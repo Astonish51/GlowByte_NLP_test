@@ -140,7 +140,6 @@ google-cloud-language==2.9.1
 google-cloud-resource-manager==1.10.4
 google-cloud-storage==2.8.0
 google-cloud-translate==3.11.3
-google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=96e8c242fb55a2c189a2cf1f0c80424a8ee10e7e331ce75172c3806ac57ba026
 google-crc32c==1.5.0
 google-generativeai==0.2.2
 google-pasta==0.2.0
@@ -191,7 +190,6 @@ ipytree==0.2.2
 ipywidgets==7.7.1
 itsdangerous==2.1.2
 jax==0.4.20
-jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.4.20+cuda11.cudnn86-cp310-cp310-manylinux2014_x86_64.whl#sha256=01be66238133f884bf5adf15cd7eaaf8445f9d4b056c5c64df28a997a6aff2fe
 jeepney==0.7.1
 jieba==0.42.1
 Jinja2==3.1.2
